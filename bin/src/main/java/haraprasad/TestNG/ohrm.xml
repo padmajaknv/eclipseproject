@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM">
+    <test name="Smoke Testing">
+        <classes>
+            <class name="haraprasad.TestNG.ohrmTC1"></class>
+            <class name="haraprasad.TestNG.ohrmTC2"></class>
+            <class name="haraprasad.TestNG.ohrmTC3"></class>
+            <class name="haraprasad.TestNG.ohrmTC4"></class>
+            <class name="haraprasad.TestNG.ohrmTC5"></class>
+            <class name="haraprasad.TestNG.ohrmTC6"></class>
+        </classes>
+    </test>
+</suite>

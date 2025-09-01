@@ -1,0 +1,15 @@
+package PRIYANSHU.JAVA;
+
+public class HackerRankLoop1
+{
+    public static void main(String[] args)
+    {
+        int x=2;
+        System.out.println("Multiplication table of "+x+" is ");
+        for(int i=1;i<=10;i++)
+        {
+            System.out.println(x + " * "+ i +" = " + x*i);
+        }
+    }
+
+}

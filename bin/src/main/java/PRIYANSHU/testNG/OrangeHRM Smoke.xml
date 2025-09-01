@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Testing">
+    <test name="OrangeHRM">
+        <classes>
+            <class name="PRIYANSHU.testNG.TC1CareerSubMenu"></class>
+            <class name="PRIYANSHU.testNG.TC2Career"></class>
+            <class name="PRIYANSHU.testNG.TC3FreeTrial"></class>
+            <class name="PRIYANSHU.testNG.TC4FreeTrialEmail"></class>
+            <class name="PRIYANSHU.testNG.TC5SpanishLanguage"></class>
+            <class name="PRIYANSHU.testNG.TC6fb"></class>
+        </classes>
+    </test>
+</suite>

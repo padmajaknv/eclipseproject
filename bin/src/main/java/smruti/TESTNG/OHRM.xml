@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OHRM">
+    <test name="ohrm_testcases">
+        <classes>
+            <class name="smruti.TESTNG.test1_OHRM"></class>
+            <class name="smruti.TESTNG.test2_OHRM"></class>
+            <class name="smruti.TESTNG.test3_OHRM"></class>
+            <class name="smruti.TESTNG.test4_OHRM"></class>
+            <class name="smruti.TESTNG.test5_OHRM"></class>
+        </classes>
+    </test>
+</suite>

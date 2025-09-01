@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="orangehrmsmoketests" parallel="classes" thread-count="3">
+    <test name="orangehrm">
+        <classes>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase1"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase2"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase3"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase4"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase5"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase6"></class>
+            <class name="padmaja.TestNG.Smoketestcases.Smoketestcase7"></class>
+        </classes>
+    </test>
+</suite>

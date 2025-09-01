@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="dynamicT">
+    <test name="dynamicT">
+        <classes>
+            <class name="smruti.TESTNG.dynamicthread"/>
+            <class name="smruti.TESTNG.iFrame"/>
+            <class name="smruti.TESTNG.iFrame1"/>
+            <class name="smruti.TESTNG.MultipleWindow"></class>
+        </classes>
+    </test>
+</suite>

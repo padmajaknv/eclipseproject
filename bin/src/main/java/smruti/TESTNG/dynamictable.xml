@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Dynamic_table">
+    <test name="table">
+        <classes>
+            <class name="smruti.TESTNG.Dynamic_Table"/>
+        </classes>
+    </test>
+</suite>

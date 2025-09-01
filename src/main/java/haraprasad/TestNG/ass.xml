@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ass" parallel="classes">
+    <test name="Table">
+        <classes>
+            <class name="haraprasad.TestNG.dynamicTable"></class>
+            <class name="haraprasad.TestNG.window"></class>
+        </classes>
+    </test>
+</suite>

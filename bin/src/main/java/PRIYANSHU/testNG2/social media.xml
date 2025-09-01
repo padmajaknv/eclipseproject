@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Testing OrangeHRM">
+    <test name="Smoke Testing">
+        <classes>
+            <class name="PRIYANSHU.testNG2.flyReturn"></class>
+        </classes>
+    </test>
+</suite>
